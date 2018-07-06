@@ -1,0 +1,2 @@
+python FlappyBirdServer\server.py
+pause
